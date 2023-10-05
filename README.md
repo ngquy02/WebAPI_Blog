@@ -4,14 +4,14 @@ Bài tập lớn môn Lập trình sử dụng API
 ## Mô tả
 Trang web blog tin tức và là bài tập lớn để đánh giá quá trình học tập của môn học.
 
-Trang web được xây dựng bằng công nghệ Laravel.
+Trang web được xây dựng bằng framework Laravel.
 
-Áp dụng thiết kế REST API để trao đổi dữ liệu.
+Áp dụng thiết kế RESTful API để trao đổi dữ liệu.
 
 Các mục lớn của trang web
   
   1. Trang tin tức.
-  2. Trang quản trị dành cho quản trị viên.
+  2. Trang quản trị viên.
   
 ## Một số hình ảnh
   * Trang chủ
